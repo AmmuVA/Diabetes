@@ -44,8 +44,7 @@ pip install pandas numpy scikit-learn matplotlib
 Usage
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/diabetes-prediction.git
 cd diabetes-prediction
 Open the Jupyter Notebook or Python script where the model is implemented.
